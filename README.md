@@ -9,4 +9,4 @@ Key Features:
 - **Improved Communication:** Academic Spot facilitates seamless communication between students and faculty members, fostering a collaborative learning environment.
 - **User-Friendly Interface:** The platform is designed with a user-friendly interface, ensuring ease of navigation and accessibility for all users.
 
-By leveraging technology, Academic Spot empowers students to stay connected with their educational materials and stay engaged in their learning journey, even during challenging times like the COVID-19 pandemic. Join us in revolutionizing the way we access and interact with academic resources at Amrita School of Engineering!
+By leveraging technology, Academic Spot empowers students to stay connected with their educational materials and stay engaged in their learning journey, even during challenging times like the COVID-19 pandemic.
