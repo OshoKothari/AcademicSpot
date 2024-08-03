@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/*"
-to = "loginpage/projectrecent.html"
+to = "newloginpage/projectkaro.html"
 status = 200
